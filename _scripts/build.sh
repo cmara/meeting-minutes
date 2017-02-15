@@ -60,3 +60,10 @@ pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minute
 pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2016-11-17-board-meeting.tex
 pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2016-11-17-business-meeting.tex
 pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2016-11-17-business-meeting.tex
+
+# 2016-12-15
+# Takes two passes to get page number references correct.
+pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2016-12-15-board-meeting.tex
+pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2016-12-15-board-meeting.tex
+pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2016-12-15-business-meeting.tex
+pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2016-12-15-business-meeting.tex
