@@ -77,7 +77,7 @@ pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minute
 
 # 2017-02-16
 # Takes two passes to get page number references correct.
-# pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2017-02-16-board-meeting.tex
-# pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2017-02-16-board-meeting.tex
+pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2017-02-16-board-meeting.tex
+pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2017-02-16-board-meeting.tex
 pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2017-02-16-business-meeting.tex
 pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build minutes/2017-02-16-business-meeting.tex

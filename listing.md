@@ -1,7 +1,7 @@
 # CMARA Meeting Minutes Downloads
 _(Latest on top, earliest on bottom)_
 
-- `2017-02-16` [Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2017-02-16-business-meeting.pdf)
+- `2017-02-16` [Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2017-02-16-business-meeting.pdf) and [Board Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2017-02-16-board-meeting.pdf)
 - `2017-01-19` [Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2017-01-19-business-meeting.pdf) and [Board Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2017-01-19-board-meeting.pdf)
 - `2016-12-15` [Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2016-12-15-business-meeting.pdf) and [Board Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2016-12-15-board-meeting.pdf)
 - `2016-11-17` [Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2016-11-17-business-meeting.pdf) and [Board Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2016-11-17-board-meeting.pdf)
