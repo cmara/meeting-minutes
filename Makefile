@@ -9,12 +9,6 @@ clean:
 archive.zip: all
 	zip archive.zip output/*.pdf
 
-archive-2016.zip:
-	zip archive-2016.zip output/2016-*.pdf
-
-archive-2017.zip:
-	zip archive-2017.zip output/2017-*.pdf
-
 output/2016-01-21-board-meeting.pdf: minutes/2016-01-21-board-meeting.tex
 	pdflatex -interaction=nonstopmode -halt-on-error -output-directory output minutes/2016-01-21-board-meeting.tex
 	pdflatex -interaction=nonstopmode -halt-on-error -output-directory output minutes/2016-01-21-board-meeting.tex
