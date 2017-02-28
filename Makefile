@@ -4,6 +4,9 @@ output:
 	mkdir -p output/
 
 clean:
+	rm -rf output/*.log output/*.aux
+
+reset: clean
 	rm -rf output/ archive*.zip
 
 archive.zip: all
