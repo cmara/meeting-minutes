@@ -12,6 +12,7 @@ do
   then
     echo "Building $TEX_FILE..."
     pdflatex -interaction=nonstopmode -halt-on-error -output-directory minutes $TEX_FILE > /dev/null
+    pdflatex -interaction=nonstopmode -halt-on-error -output-directory minutes $TEX_FILE > /dev/null
   else
     echo "Skipping build of $TEX_FILE (nothing to do)"
   fi
