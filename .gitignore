@@ -1,2 +1,4 @@
-output/
 archive.zip
+minutes/*.aux
+minutes/*.log
+minutes/*.pdf
