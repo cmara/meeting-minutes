@@ -20,3 +20,6 @@ ARCHIVE_GENERATED_ON.txt:
 	echo "\nUTC: " >> ARCHIVE_GENERATED_ON.txt
 	date -u >> ARCHIVE_GENERATED_ON.txt
 	echo "\n"
+
+update_listing:
+	ruby make_listing.rb > listing.md
