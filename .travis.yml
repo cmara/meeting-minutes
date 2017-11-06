@@ -17,5 +17,5 @@ deploy:
   bucket: $AWS_S3_BUCKET
   skip_cleanup: true
   local_dir: output
-  upload-dir: w1ide/cmara/meeting-minutes/
+  upload-dir: w1ide/cmara/meeting-minutes
   region: $AWS_S3_REGION
