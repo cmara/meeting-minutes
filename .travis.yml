@@ -1,0 +1,21 @@
+sudo: required
+dist: trusty
+
+install:
+  - sudo bash scripts/install.sh
+
+script:
+  - make all
+
+before_deploy:
+  - rm -f output/*.log output/*.aux
+
+deploy:
+  provider: s3
+  access_key_id: $AWS_ACCESS_KEY_ID
+  secret_access_key: $AWS_SECRET_ACCESS_KEY
+  bucket: $AWS_S3_BUCKET
+  skip_cleanup: true
+  local_dir: output
+  upload-dir: w1ide/cmara/meeting-minutes/
+  region: $AWS_S3_REGION
