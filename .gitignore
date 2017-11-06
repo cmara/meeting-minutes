@@ -3,3 +3,4 @@ minutes/*.aux
 minutes/*.log
 minutes/*.pdf
 ARCHIVE_GENERATED_ON.txt
+.DS_Store
