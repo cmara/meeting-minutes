@@ -1,5 +1,5 @@
 all:
-	bash build.sh
+	bash scripts/build.sh
 
 clean:
 	rm -rf \
@@ -22,4 +22,4 @@ ARCHIVE_GENERATED_ON.txt:
 	echo "\n"
 
 update_listing:
-	ruby make_listing.rb > listing.md
+	ruby scripts/make_listing.rb > MEETING_LISTING.md

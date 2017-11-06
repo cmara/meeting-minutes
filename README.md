@@ -8,7 +8,7 @@ These [LaTeX](https://en.wikipedia.org/wiki/LaTeX) documents are the meeting min
 
 If you're not interested in the source of the LaTeX files, you can just download the note sheets here:
 
-[See the Minute Listing](listing.md)
+[See the Minute Listing](MEETING_LISTING.md)
 
 The files at that location are kept in sync via a [Travis CI build](https://travis-ci.org/cmara/meeting-minutes).
 
