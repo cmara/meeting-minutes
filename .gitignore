@@ -1,6 +1,6 @@
 archive.zip
-minutes/*.aux
-minutes/*.log
-minutes/*.pdf
+output/*.aux
+output/*.log
+output/*.pdf
 ARCHIVE_GENERATED_ON.txt
 .DS_Store

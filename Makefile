@@ -5,12 +5,12 @@ clean:
 	rm -rf \
 		archive.zip \
 		ARCHIVE_GENERATED_ON.txt \
-		minutes/*.aux \
-		minutes/*.log \
-		minutes/*.pdf
+		output/*.aux \
+		output/*.log \
+		output/*.pdf
 
 archive.zip: all ARCHIVE_GENERATED_ON.txt
-	rm -rf minutes/*.log minutes/*.aux
+	rm -rf output/*.log output/*.aux
 	zip -r archive.zip *
 
 ARCHIVE_GENERATED_ON.txt:
