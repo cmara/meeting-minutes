@@ -25,7 +25,7 @@ class Meeting
 end
 
 def years
-  (2016..2017)
+  (2016..2018)
 end
 
 def all_third_thursdays
