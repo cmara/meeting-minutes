@@ -1,9 +1,10 @@
 # CMARA Meeting Minute Listing
 
-Below, you will find the meeting minutes for all CMARA meetings from January 2016 to March 2018.
+Below, you will find the meeting minutes for all CMARA meetings from January 2016 to April 2018.
 
 | Date | Business Meeting | Board Meeting |
 |------|------------------|---------------|
+| April 19, 2018 | [Apr '18 Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-04-19-business-meeting.pdf) | [Apr '18 Board Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-04-19-board-meeting.pdf) |
 | March 15, 2018 | [Mar '18 Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-03-15-business-meeting.pdf) | [Mar '18 Board Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-03-15-board-meeting.pdf) |
 | February 15, 2018 | [Feb '18 Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-02-15-business-meeting.pdf) | [Feb '18 Board Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-02-15-board-meeting.pdf) |
 | January 18, 2018 | [Jan '18 Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-01-18-business-meeting.pdf) | [Jan '18 Board Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-01-18-board-meeting.pdf) |
