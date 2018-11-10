@@ -1,9 +1,11 @@
 # CMARA Meeting Minute Listing
 
-Below, you will find the meeting minutes for all CMARA meetings from January 2016 to August 2018.
+Below, you will find the meeting minutes for all CMARA meetings from January 2016 to October 2018.
 
 | Date | Business Meeting | Board Meeting |
 |------|------------------|---------------|
+| October 18, 2018 | [Oct '18 Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-10-18-business-meeting.pdf) | _No Minutes or Not Held_ |
+| September 20, 2018 | _No Minutes or Not Held_ | _No Minutes or Not Held_ |
 | August 16, 2018 | _No Minutes or Not Held_ | [Aug '18 Board Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-08-16-board-meeting.pdf) |
 | July 19, 2018 | _No Minutes or Not Held_ | _No Minutes or Not Held_ |
 | June 21, 2018 | [Jun '18 Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-06-21-business-meeting.pdf) | _No Minutes or Not Held_ |
