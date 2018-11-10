@@ -12,7 +12,7 @@ class Meeting
   end
 
   def meeting_markdown_text(type)
-    return "_Not Held_" unless held?(type)
+    return "_No Minutes or Not Held_" unless held?(type)
     type_string = type.to_s.slice(0,1).capitalize + type.to_s.slice(1..-1)
     link_text = "#{date.strftime("%b '%y")} #{type_string.to_s} Meeting"
     link_url = "https://share.cranstonide.com/w1ide/cmara/meeting-minutes/#{file_base_name(type)}.pdf"
