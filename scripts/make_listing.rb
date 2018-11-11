@@ -56,5 +56,14 @@ past_third_thursdays.sort.reverse.each do |meeting_date|
   business_meeting_text = meeting.meeting_markdown_text(:business)
   board_meeting_text = meeting.meeting_markdown_text(:board)
 
-  puts "| #{date_text} | #{business_meeting_text} | #{board_meeting_text} |"
+  if business_meeting_text.include? 'No Minutes' and board_meeting_text.include? 'No Minutes'
+    icon = 'no_entry_sign'
+  elsif business_meeting_text.include? 'No Minutes' or board_meeting_text.include? 'No Minutes'
+    icon = 'warning'
+  else
+    icon = 'white_check_mark'
+  end
+
+
+  puts "| :#{icon}: #{date_text} | #{business_meeting_text} | #{board_meeting_text} |"
 end
