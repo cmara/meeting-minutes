@@ -4,7 +4,7 @@ Below, you will find the meeting minutes for all CMARA meetings from January 201
 
 | Date | Business Meeting | Board Meeting |
 |------|------------------|---------------|
-| :no_entry_sign: December 20, 2018 | _No Minutes or Not Held_ | _No Minutes or Not Held_ |
+| :warning: December 20, 2018 | [Dec '18 Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-12-20-business-meeting.pdf) | _No Minutes or Not Held_ |
 | :no_entry_sign: November 15, 2018 | _No Minutes or Not Held_ | _No Minutes or Not Held_ |
 | :white_check_mark: October 18, 2018 | [Oct '18 Business Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-10-18-business-meeting.pdf) | [Oct '18 Board Meeting](https://share.cranstonide.com/w1ide/cmara/meeting-minutes/2018-10-18-board-meeting.pdf) |
 | :no_entry_sign: September 20, 2018 | _No Minutes or Not Held_ | _No Minutes or Not Held_ |
